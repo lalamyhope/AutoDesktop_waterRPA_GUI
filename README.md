@@ -1,8 +1,9 @@
-# waterRPA_GUI
+# AutoDesktop_waterRPA_GUI
+
 
 > 基于 Python 的桌面自动化 RPA 工具，提供图形化界面编排和执行键鼠自动化脚本。
 
-项目来源：https://github.com/PPJUST/waterRPA_GUI.git
+优化项目来源：https://github.com/PPJUST/waterRPA_GUI.git
 
 ---
 
