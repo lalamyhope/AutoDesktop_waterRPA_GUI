@@ -1,6 +1,9 @@
-pyautogui==0.9.54
-pyperclip==1.11.0
-pyside6==6.10.0
-pyside6_addons==6.10.0
-pyside6_essentials==6.10.0
-opencv-python
+PySide6>=6.5.0
+pyautogui>=0.9.54
+pynput>=1.7.6
+pyperclip>=1.8.2
+Pillow>=10.0.0
+numpy>=1.24.0
+send2trash>=1.8.0
+opencv-python>=4.8.0
+filetype>=1.2.0
